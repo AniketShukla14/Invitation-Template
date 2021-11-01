@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The Template consist of a Pattern of design which can be changed as per the wish of developer/organizer, it contains an email link in order to contact the organizer about their acceptance/rejection of the invitation and also a Map so that everyone can reach the desired location easily without any waste of time.
+The template consist of a pattern of design which can be changed as per the wish of developer/organizer, it contains an email link in order to contact the organizer about their acceptance/rejection of the invitation and also a Map so that everyone can reach the desired location easily without any waste of time.
 
 ![ss3](https://user-images.githubusercontent.com/60666490/139713196-b4b502d9-081d-4bbe-8df9-0737baf0ef73.png)
 ![ss4](https://user-images.githubusercontent.com/60666490/139713707-ee9730ba-5709-4740-abe8-2cef6253ecfa.png)
