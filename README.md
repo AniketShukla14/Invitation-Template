@@ -27,8 +27,11 @@ A invitation Template which was created in order to invite Someone or to surprse
   
 ### Objective
 -I created this template in order to invite my college mate for my friends Birthday , as it was easy to understand and unique this template was used several times after that in birthday occasion and in festive invites.
+<br>
 -To learn and implement the different HTML and CSS commands.
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
+
+
 <!-- ABOUT THE PROJECT -->
 #### About The Project
 The Template is Consisting of a Pattern of design which can be changed as per the wish of developer/organizer, it contains a email link in order to contact the organizer about their acceptance/rejection of the invitation and also a Map so that everyone can reach the desired location easily without any waste of time.
