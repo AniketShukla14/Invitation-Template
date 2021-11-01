@@ -1,5 +1,7 @@
 # Let's Invite
-A invitation Template which was created in order to invite Someone or to surprise them on the occasion of parties, festivals etc.It was a unique way to give a invite and also it consist of some of the unique features.
+<li>A invitation Template which was created in order to invite Someone or to surprise them on the occasion of parties, festivals etc.It was a unique way to give a invite and also it consist of some of the unique features.</li>
+<li>I created this template in order to invite my college mate for my friends Birthday , as it was easy to understand and unique this template was used several times after that in birthday occasion and in festive invites.</li>
+<br>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,8 +28,6 @@ A invitation Template which was created in order to invite Someone or to surpris
   </ol>
   
 ### Objective
-<li>I created this template in order to invite my college mate for my friends Birthday , as it was easy to understand and unique this template was used several times after that in birthday occasion and in festive invites.</li>
-<br>
 <li>To learn and implement the different HTML and CSS commands.</li>
 <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
 
