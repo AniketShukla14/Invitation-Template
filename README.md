@@ -27,13 +27,13 @@
   <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
   </ol>
   
-### Objective
+## Objective
 <li>To learn and implement the different HTML and CSS commands.</li>
 <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
 
 
 <!-- ABOUT THE PROJECT -->
-#### About The Project
+## About The Project
 The Template is Consisting of a Pattern of design which can be changed as per the wish of developer/organizer, it contains a email link in order to contact the organizer about their acceptance/rejection of the invitation and also a Map so that everyone can reach the desired location easily without any waste of time.
 
 ![ss3](https://user-images.githubusercontent.com/60666490/139713196-b4b502d9-081d-4bbe-8df9-0737baf0ef73.png)
