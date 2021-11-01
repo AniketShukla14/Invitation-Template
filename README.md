@@ -26,9 +26,9 @@ A invitation Template which was created in order to invite Someone or to surpris
   </ol>
   
 ### Objective
--I created this template in order to invite my college mate for my friends Birthday , as it was easy to understand and unique this template was used several times after that in birthday occasion and in festive invites.
+<li>I created this template in order to invite my college mate for my friends Birthday , as it was easy to understand and unique this template was used several times after that in birthday occasion and in festive invites.</li>
 <br>
--To learn and implement the different HTML and CSS commands.
+<li>To learn and implement the different HTML and CSS commands.</li>
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
 
 
