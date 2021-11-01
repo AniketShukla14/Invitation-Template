@@ -37,6 +37,7 @@ A invitation Template which was created in order to invite Someone or to surpris
 The Template is Consisting of a Pattern of design which can be changed as per the wish of developer/organizer, it contains a email link in order to contact the organizer about their acceptance/rejection of the invitation and also a Map so that everyone can reach the desired location easily without any waste of time.
 
 ![ss3](https://user-images.githubusercontent.com/60666490/139713196-b4b502d9-081d-4bbe-8df9-0737baf0ef73.png)
+![ss4](https://user-images.githubusercontent.com/60666490/139713707-ee9730ba-5709-4740-abe8-2cef6253ecfa.png)
 
 
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
