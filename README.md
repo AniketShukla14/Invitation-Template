@@ -1,5 +1,5 @@
 # Let's Invite
-<li>An invitation template which was created in order to invite Someone or to surprise them on the occasion of parties, festivals etc. It is a unique way of inviting, and also it consists of some unique features.</li>
+<li>An invitation template which was created in order to invite someone or to surprise them on the occasion of parties, festivals etc. It is a unique way of inviting, and also it consists of some unique features.</li>
 <li>I created this template in order to invite my college mate for my friend's birthday , as it was easy to understand and unique.This template was used several times after that in birthday's and as festive invites.</li>
 <br>
 
